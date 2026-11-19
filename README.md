@@ -16,6 +16,6 @@ What the package brings and how to update or remove it:
 
 Every file here is built from [xchg-app/xchg](https://github.com/xchg-app/xchg) and
 overwritten on each release, so changes made here are lost. Issues and pull requests belong in that
-repository; this one only ships version 0.18.2 of the package.
+repository; this one only ships version 0.18.3 of the package.
 
 [MIT](LICENSE) © Nikolay Pronchev.
